@@ -14,7 +14,7 @@ class ProductionLine:
     ----------
     r_b : number
         The bottleneck rate. It is the rate of the 
-        workstation having the highest long-term utilization. 
+        workstation having the highest long-term utilization.
         Has units of parts per unit time.
     T_0 : number
         The natural process time. It is the sum of the 
